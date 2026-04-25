@@ -2,6 +2,8 @@
   "version": 2,
   "public": false,
   "framework": null,
+  "buildCommand": "",
+  "outputDirectory": ".",
   "headers": [
     {
       "source": "/(.*)",
