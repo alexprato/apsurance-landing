@@ -1,10 +1,7 @@
 {
-  "name": "apsurance-landing",
   "version": 2,
   "public": false,
-  "buildCommand": "echo 'Static site'",
   "framework": null,
-  "env": {},
   "headers": [
     {
       "source": "/(.*)",
