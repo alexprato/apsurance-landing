@@ -1,0 +1,19 @@
+{
+  "name": "apsurance-landing",
+  "version": "1.0.0",
+  "description": "APsurance - Health Insurance Marketplace assistance",
+  "private": true,
+  "scripts": {
+    "dev": "python -m http.server 3000",
+    "build": "echo 'Static site - no build needed'",
+    "start": "python -m http.server 3000"
+  },
+  "keywords": [
+    "health insurance",
+    "marketplace",
+    "aca",
+    "insurance agent"
+  ],
+  "author": "APsurance",
+  "license": "ISC"
+}
